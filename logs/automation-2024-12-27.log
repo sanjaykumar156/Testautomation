@@ -1,0 +1,60 @@
+11:12:49.985 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+11:12:50.010 [main] INFO  testcases.GuielementsTest -entered first name
+11:12:50.200 [main] INFO  testcases.GuielementsTest -entered email
+11:12:50.298 [main] INFO  testcases.GuielementsTest -entered mobile number
+11:12:50.394 [main] INFO  testcases.GuielementsTest -entered address
+11:12:50.512 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+11:12:52.837 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+11:12:52.869 [main] INFO  testcases.GuielementsTest -entered first name
+11:12:53.058 [main] INFO  testcases.GuielementsTest -entered email
+11:12:53.175 [main] INFO  testcases.GuielementsTest -entered mobile number
+11:12:53.290 [main] INFO  testcases.GuielementsTest -entered address
+11:12:53.404 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+12:28:27.195 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+12:28:27.227 [main] INFO  testcases.GuielementsTest -entered first name
+12:28:27.535 [main] INFO  testcases.GuielementsTest -entered email
+12:28:27.670 [main] INFO  testcases.GuielementsTest -entered mobile number
+12:28:27.792 [main] INFO  testcases.GuielementsTest -entered address
+12:28:27.934 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+12:29:56.553 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+12:29:56.619 [main] INFO  testcases.GuielementsTest -entered first name
+12:33:15.200 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+12:33:15.305 [main] INFO  testcases.GuielementsTest -entered first name
+12:47:14.268 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+12:47:14.344 [main] INFO  testcases.GuielementsTest -entered first name
+13:16:11.593 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:16:11.633 [main] INFO  testcases.GuielementsTest -entered first name
+13:16:11.876 [main] INFO  testcases.GuielementsTest -entered email
+13:16:12.000 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:16:12.125 [main] INFO  testcases.GuielementsTest -entered address
+13:16:12.230 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+13:21:21.168 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:21:21.208 [main] INFO  testcases.GuielementsTest -entered first name
+13:21:21.433 [main] INFO  testcases.GuielementsTest -entered email
+13:21:21.588 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:21:21.907 [main] INFO  testcases.GuielementsTest -entered address
+13:21:22.268 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+13:49:38.401 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:49:38.480 [main] INFO  testcases.GuielementsTest -entered first name
+13:49:39.465 [main] INFO  testcases.GuielementsTest -entered email
+13:49:39.597 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:49:39.724 [main] INFO  testcases.GuielementsTest -entered address
+13:49:39.855 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+13:51:05.935 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:51:05.995 [main] INFO  testcases.GuielementsTest -entered first name
+13:51:06.220 [main] INFO  testcases.GuielementsTest -entered email
+13:51:06.388 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:51:06.530 [main] INFO  testcases.GuielementsTest -entered address
+13:51:06.724 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+13:55:33.958 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:55:34.047 [main] INFO  testcases.GuielementsTest -entered first name
+13:55:34.297 [main] INFO  testcases.GuielementsTest -entered email
+13:55:34.518 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:55:34.646 [main] INFO  testcases.GuielementsTest -entered address
+13:55:34.770 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+13:57:43.858 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:57:43.885 [main] INFO  testcases.GuielementsTest -entered first name
+13:57:47.804 [main] INFO  testcases.GuielementsTest -entered email
+13:57:47.969 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:57:48.116 [main] INFO  testcases.GuielementsTest -entered address
+13:57:48.459 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully

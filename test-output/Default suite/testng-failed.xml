@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.DropdownTest">
+      <class name="testcases.GuielementsTest">
         <methods>
           <include name="setup"/>
-          <include name="dropdownhandle"/>
+          <include name="guielements"/>
           <include name="tearout"/>
         </methods>
-      </class> <!-- testcases.DropdownTest -->
+      </class> <!-- testcases.GuielementsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

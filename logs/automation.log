@@ -1,0 +1,30 @@
+13:57:55.401 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+13:57:55.416 [main] INFO  testcases.GuielementsTest -entered first name
+13:57:59.737 [main] INFO  testcases.GuielementsTest -entered email
+13:57:59.916 [main] INFO  testcases.GuielementsTest -entered mobile number
+13:58:00.085 [main] INFO  testcases.GuielementsTest -entered address
+13:58:00.339 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+14:14:13.169 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+14:14:13.260 [main] INFO  testcases.GuielementsTest -entered first name
+14:14:14.480 [main] INFO  testcases.GuielementsTest -entered email
+14:14:15.185 [main] INFO  testcases.GuielementsTest -entered mobile number
+14:14:15.451 [main] INFO  testcases.GuielementsTest -entered address
+14:14:15.900 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+14:14:25.220 [main] INFO  testcases.GuielementsTest -enternig of personal details started
+14:14:25.221 [main] INFO  testcases.GuielementsTest -entered first name
+14:14:25.431 [main] INFO  testcases.GuielementsTest -entered email
+14:14:25.570 [main] INFO  testcases.GuielementsTest -entered mobile number
+14:14:25.736 [main] INFO  testcases.GuielementsTest -entered address
+14:14:26.340 [main] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+14:19:00.452 [TestNG-tests-2] INFO  testcases.GuielementsTest -enternig of personal details started
+14:19:00.852 [TestNG-tests-2] INFO  testcases.GuielementsTest -entered first name
+14:19:06.648 [TestNG-tests-1] INFO  testcases.GuielementsTest -enternig of personal details started
+14:19:06.657 [TestNG-tests-1] INFO  testcases.GuielementsTest -entered first name
+14:19:09.360 [TestNG-tests-1] INFO  testcases.GuielementsTest -entered email
+14:19:12.323 [TestNG-tests-1] INFO  testcases.GuielementsTest -entered mobile number
+14:19:14.305 [TestNG-tests-1] INFO  testcases.GuielementsTest -entered address
+14:19:14.804 [TestNG-tests-1] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
+14:19:15.004 [TestNG-tests-2] INFO  testcases.GuielementsTest -entered email
+14:19:15.903 [TestNG-tests-2] INFO  testcases.GuielementsTest -entered mobile number
+14:19:16.154 [TestNG-tests-2] INFO  testcases.GuielementsTest -entered address
+14:19:16.462 [TestNG-tests-2] INFO  testcases.GuielementsTest -persnoal details has submitted succefully --------> testcase passed successfully
